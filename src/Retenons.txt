@@ -1,0 +1,13 @@
+-> Resumé :
+-Un constructeur est une méthode dont le nom est le meme que celui de son type.
+-On ne peut pas créer java sans créer une classe.
+-Une classe est une espece 'élément qui pourra représenter une entite , une idée ou un concept'
+-
+
+
+
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/nyamarinette/08-construction-d-une-classe.git
+git push -u origin main
